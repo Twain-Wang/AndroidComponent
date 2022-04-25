@@ -6,7 +6,7 @@ android {
     compileSdk 32
 
     defaultConfig {
-        applicationId "com.jsyiyi.androidcomponent"
+        applicationId "com.jsyiyi.share"
         minSdk 21
         targetSdk 32
         versionCode 1

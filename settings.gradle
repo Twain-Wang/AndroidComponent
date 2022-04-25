@@ -8,3 +8,7 @@ dependencyResolutionManagement {
 }
 rootProject.name = "AndroidComponent"
 include ':app'
+include ':basiclib'
+include ':service'
+include ':read'
+include ':share'
