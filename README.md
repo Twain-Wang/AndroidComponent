@@ -1,3 +1,0 @@
-# AndroidComponent
-# AndroidComponent
-# AndroidComponent
